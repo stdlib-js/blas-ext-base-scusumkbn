@@ -206,6 +206,25 @@ console.log( y );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/blas/ext/base/dcusumkbn`][@stdlib/blas/ext/base/dcusumkbn]: calculate the cumulative sum of double-precision floating-point strided array elements using an improved Kahan–Babuška algorithm.
+-   [`@stdlib/blas/ext/base/gcusumkbn`][@stdlib/blas/ext/base/gcusumkbn]: calculate the cumulative sum of strided array elements using an improved Kahan–Babuška algorithm.
+-   [`@stdlib/blas/ext/base/scusum`][@stdlib/blas/ext/base/scusum]: calculate the cumulative sum of single-precision floating-point strided array elements.
+-   [`@stdlib/blas/ext/base/scusumkbn2`][@stdlib/blas/ext/base/scusumkbn2]: calculate the cumulative sum of single-precision floating-point strided array elements using a second-order iterative Kahan–Babuška algorithm.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -266,6 +285,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [@neumaier:1974a]: https://doi.org/10.1002/zamm.19740540106
+
+<!-- <related-links> -->
+
+[@stdlib/blas/ext/base/dcusumkbn]: https://github.com/stdlib-js/blas-ext-base-dcusumkbn
+
+[@stdlib/blas/ext/base/gcusumkbn]: https://github.com/stdlib-js/blas-ext-base-gcusumkbn
+
+[@stdlib/blas/ext/base/scusum]: https://github.com/stdlib-js/blas-ext-base-scusum
+
+[@stdlib/blas/ext/base/scusumkbn2]: https://github.com/stdlib-js/blas-ext-base-scusumkbn2
+
+<!-- </related-links> -->
 
 </section>
 
