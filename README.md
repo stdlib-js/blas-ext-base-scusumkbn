@@ -20,7 +20,7 @@ limitations under the License.
 
 # scusumkbn
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Calculate the cumulative sum of single-precision floating-point strided array elements using an improved Kahan–Babuška algorithm.
 
@@ -214,10 +214,10 @@ console.log( y );
 
 ## See Also
 
--   [`@stdlib/blas/ext/base/dcusumkbn`][@stdlib/blas/ext/base/dcusumkbn]: calculate the cumulative sum of double-precision floating-point strided array elements using an improved Kahan–Babuška algorithm.
--   [`@stdlib/blas/ext/base/gcusumkbn`][@stdlib/blas/ext/base/gcusumkbn]: calculate the cumulative sum of strided array elements using an improved Kahan–Babuška algorithm.
--   [`@stdlib/blas/ext/base/scusum`][@stdlib/blas/ext/base/scusum]: calculate the cumulative sum of single-precision floating-point strided array elements.
--   [`@stdlib/blas/ext/base/scusumkbn2`][@stdlib/blas/ext/base/scusumkbn2]: calculate the cumulative sum of single-precision floating-point strided array elements using a second-order iterative Kahan–Babuška algorithm.
+-   <span class="package-name">[`@stdlib/blas/ext/base/dcusumkbn`][@stdlib/blas/ext/base/dcusumkbn]</span><span class="delimiter">: </span><span class="description">calculate the cumulative sum of double-precision floating-point strided array elements using an improved Kahan–Babuška algorithm.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/gcusumkbn`][@stdlib/blas/ext/base/gcusumkbn]</span><span class="delimiter">: </span><span class="description">calculate the cumulative sum of strided array elements using an improved Kahan–Babuška algorithm.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/scusum`][@stdlib/blas/ext/base/scusum]</span><span class="delimiter">: </span><span class="description">calculate the cumulative sum of single-precision floating-point strided array elements.</span>
+-   <span class="package-name">[`@stdlib/blas/ext/base/scusumkbn2`][@stdlib/blas/ext/base/scusumkbn2]</span><span class="delimiter">: </span><span class="description">calculate the cumulative sum of single-precision floating-point strided array elements using a second-order iterative Kahan–Babuška algorithm.</span>
 
 </section>
 
@@ -268,8 +268,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-ext-base-scusumkbn/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-ext-base-scusumkbn?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/blas-ext-base-scusumkbn.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/blas-ext-base-scusumkbn/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
