@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-05)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`4dd744c`](https://github.com/stdlib-js/stdlib/commit/4dd744c4f9e9b088b6ec33e7d45c4b7280c86d2d) - **refactor:** rename variable in `blas/base/scusumkbn` [(#7213)](https://github.com/stdlib-js/stdlib/pull/7213) _(by Shabareesh Shetty)_
 -   [`a996667`](https://github.com/stdlib-js/stdlib/commit/a9966678dedd564a74999f2c4c5bd47c9a2b0c64) - **fix:** propagate sign to the accumulated sum _(by Athan Reines)_
 -   [`9b15f0d`](https://github.com/stdlib-js/stdlib/commit/9b15f0ddca1266c21cca68caa9c04043eac9807d) - **fix:** preserve the sign of zero _(by Athan Reines)_
 -   [`aca04f8`](https://github.com/stdlib-js/stdlib/commit/aca04f8b4bd9c850d9b66a253647bac5b84c63fb) - **feat:** add C `ndarray` API and refactor `blas/ext/base/scusumkbn` [(#4782)](https://github.com/stdlib-js/stdlib/pull/4782) _(by Muhammad Haris)_
@@ -48,11 +49,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Muhammad Haris
 -   Philipp Burckhardt
+-   Shabareesh Shetty
 
 </section>
 
